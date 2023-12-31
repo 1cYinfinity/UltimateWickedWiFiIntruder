@@ -24,7 +24,7 @@ Welcome to the UltimateWickedWiFiIntruder—an advanced Python script for ethica
 
 ### How to Use
 
-1. Clone the repository: `git clone https://github.com/yourusername/UltimateWickedWiFiIntruder.git`
+1. Clone the repository: `git clone https://github.com/1cYinfinity/UltimateWickedWiFiIntruder.git`
 2. Navigate to the project directory: `cd UltimateWickedWiFiIntruder`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Set your network interface in `UltimateWickedWiFiIntruder.py`: `network_interface = "wlan0"`.
